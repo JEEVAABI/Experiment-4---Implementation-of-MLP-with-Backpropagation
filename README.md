@@ -120,5 +120,22 @@ Normalize our dataset.
 ## PROGRAM 
 
 ## OUTPUT 
+### df.head():
+![outputa](head.png)
+### X.head():
+![outputb](Xhead.png)
+### Y.head():
+![outputc](yhead.png)
+### Unique Values in Y:
+![outputd](uniq.png)
+### Transforming Categorical to numerical values:
+![outpute](trans.png)
+### Predictions:
+![outputf](mlpprd.png)
+### Confusion Matrix:
+![outputg](confusmat.png)
+### Classification_report:
+![outputh](classs%20prd.png)
 
 ## RESULT
+Thus, a program to implement Multilayer Perceptron for Multi Classification is successfully created and executed.
